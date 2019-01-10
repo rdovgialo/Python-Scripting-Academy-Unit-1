@@ -25,7 +25,8 @@ def adding_report(all_or_total):
 				break
 		else:
 			print("Enter an integer or \"Q\":")
-
+adding_report('a')
+adding_report("T")
 
 
 
